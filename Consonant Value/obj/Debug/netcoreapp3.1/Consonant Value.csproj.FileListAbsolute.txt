@@ -1,0 +1,13 @@
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.exe
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.deps.json
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.runtimeconfig.json
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.runtimeconfig.dev.json
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.dll
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\bin\Debug\netcoreapp3.1\Consonant Value.pdb
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.csprojAssemblyReference.cache
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.csproj.CoreCompileInputs.cache
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.AssemblyInfoInputs.cache
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.AssemblyInfo.cs
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.dll
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.pdb
+C:\Users\mattd\Desktop\CODEWARS\Consonant Value\obj\Debug\netcoreapp3.1\Consonant Value.genruntimeconfig.cache
